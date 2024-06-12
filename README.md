@@ -1,4 +1,4 @@
-# Trafic-Sign-Classification
+# Traffic-Sign-Classification
 
 ## Overview
 
