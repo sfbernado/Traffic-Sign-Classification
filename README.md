@@ -21,7 +21,6 @@ The Traffic Sign Classification project aims to develop a robust deep-learning m
 - Jupyter Notebook
 - Pandas
 - NumPy
-- NLTK
 - TensorFlow
 - Keras
 - Matplotlib
